@@ -1,0 +1,5 @@
+HOW TO RUN
+Browser console
+
+ABOUT
+This script counts within the Fibonacci sequence. It uses arrays and the push() method to combine different values. 

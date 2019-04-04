@@ -1,0 +1,5 @@
+HOW TO RUN
+In the broswer
+
+ABOUT
+This script counts down to a given date value using

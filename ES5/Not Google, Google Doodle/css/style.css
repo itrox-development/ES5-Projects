@@ -1,0 +1,93 @@
+#booleangPart1
+{
+top:75px;
+margin-left:20px;
+}
+
+#booleangPart2
+{
+top:155px;
+margin-left:20px;
+}
+
+.sharedBooleanClass
+{
+  position:absolute;
+  color:white !important;
+  left:260px;
+  border-radius:50%;
+  background-color:black;
+  width:75px;
+  height:75px;
+  line-height:145%;
+
+  font-size:45px ;
+  font-style:italic;
+  text-align:center;
+}
+
+.hide
+{
+  display:none;
+}
+
+.g
+{
+  color:grey;
+  font-size:150px;
+}
+
+.blue
+{
+  color:blue !important; 
+  font-size:150px;
+}
+
+.green
+{
+  color:green !important; 
+  font-size:150px;
+}
+
+.red
+{
+  color:red !important; 
+  font-size:150px;
+}
+
+.orange
+{
+  color:orange !important; 
+  font-size:150px;
+}
+
+#l{
+  margin-left:75px;
+  }
+
+div span:nth-child(7)
+{
+position:absolute;
+-ms-transform: rotate(-20deg); /* IE 9 */
+-webkit-transform: rotate(-20deg); /* Chrome, Safari, Opera */
+ transform: rotate(-20deg);
+}
+
+.border
+{
+  border:1px solid;
+  margin:2px;
+}
+
+
+#conditionalsText span
+{
+margin-left:22px;
+padding:2px; 
+}
+
+#conditionalsText span:nth-child(4)
+{
+margin-left:85px;
+}
+

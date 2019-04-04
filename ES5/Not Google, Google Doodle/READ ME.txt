@@ -1,0 +1,5 @@
+HOW TO RUN
+Watch in the browser
+
+ABOUT
+This script repliactions a Google doodgle and is based on conditional logic from booleon values to display visual outcomes. 

@@ -1,0 +1,19 @@
+
+p {
+  text-align: center;
+  font-size: 60px;
+}
+
+.none{
+  
+  display:none;
+}
+
+.countdown{
+  
+  color:red;
+  font-size:10px;
+    text-align: center;
+    font-size: 2em;
+}
+

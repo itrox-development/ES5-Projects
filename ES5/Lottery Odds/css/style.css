@@ -1,0 +1,38 @@
+body{
+  background-image:  url(http://itrox.co.uk/lotteryScript/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* OR background-size: 100% 100%;*/
+  background-attachment: fixed;
+}
+
+#button{
+  height:20px;
+  width:100px;
+  background-color:white;
+  border:1px solid black;
+  margin-top:160px;
+}
+
+#button:hover{
+  
+  cursor:pointer;
+}
+
+#output{
+  height:100px;
+  width:300px;
+  background-color:black;
+  opacity:0.8;
+  color:white;
+  line-height:30px;
+}
+
+.center{
+   position:absolute;
+   padding : 15px 30px 14px 30px;
+   margin-left  :  auto;
+   margin-right  :  auto;
+   top: 40%; left: 0; bottom: 40%; right: 0;
+   text-align:center;
+}

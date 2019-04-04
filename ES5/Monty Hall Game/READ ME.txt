@@ -1,0 +1,5 @@
+HOW TO RUN
+Press the "play" button in the broswer, the game is played in the console.
+
+ABOUT
+This script is a game based on the monty hall game show. It shows the odds of winning based on taking monty's offer of choice per time.
